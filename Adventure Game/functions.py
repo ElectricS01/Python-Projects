@@ -26,6 +26,7 @@ yn = ['y', 'n']
 gn = ['gun', 'knife']
 mf = ['Meat', 'Food']
 
+
 print("Made by ElectricS01 electrics01.com ")
 
 
@@ -382,4 +383,3 @@ def game_start():
                 break
             else:
                 print('Option invalid ')
-
