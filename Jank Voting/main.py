@@ -115,13 +115,13 @@ continue_button.pack()
 
 # Gets the images to vote on
 
-img1 = (Image.open('venv/Cat-Ginger-png-hd.png'))
-img2 = (Image.open('venv/585bb5bfcb11b227491c32a3.png'))
+img1 = (Image.open('Cat.png'))
+img2 = (Image.open('Dog.png'))
 
-img1 = img1.resize((int(screen_width / 4 - 10), int(screen_width / 4)), Image.ANTIALIAS)
+img1 = img1.resize((int(screen_width / 4 - 10), int(screen_width / 4)))
 img1 = ImageTk.PhotoImage(img1)
 
-img2 = img2.resize((int(screen_width / 4 - 10), int(screen_width / 4)), Image.ANTIALIAS)
+img2 = img2.resize((int(screen_width / 4 - 10), int(screen_width / 4)))
 img2 = ImageTk.PhotoImage(img2)
 
 # Puts the images on the home screen
