@@ -61,7 +61,7 @@ def vote_event(var):
 
 # Advertising
 
-print('Made by ElectricS01(Thomas B) electrics01.itch.io ')
+print('Made by ElectricS01 electrics01.com ')
 # Do Not Redistribute without permission
 
 # create and customize the root
