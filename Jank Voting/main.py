@@ -91,7 +91,7 @@ root.geometry(f'{screen_geo_x}x{screen_geo_y}')
 
 # More advertising
 
-link1 = Label(root, text='Made by ElectricS01(Thomas B)', bg='#282828', fg='white', cursor='hand',
+link1 = Label(root, text='Made by ElectricS01', bg='#282828', fg='white', cursor='hand',
               font=('San Francisco', int(screen_height / 70)))
 
 link1.pack()
