@@ -1,6 +1,3 @@
 
 .DS_Store
-.idea/modules.xml
-.idea/Python-things.iml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea
