@@ -1,3 +1,3 @@
-# Python-things
+# Python-Projects
 
-My Python projects
+A bunch of Python projects that I've made over the years
